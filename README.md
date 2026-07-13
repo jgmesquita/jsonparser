@@ -38,7 +38,7 @@ value
 
 ## ObjectJSON Class
 
-These are some examples of methods from ObectJSON class:
+These are some examples of methods from ObjectJSON class:
 
 ```py
 def main():

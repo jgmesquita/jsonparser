@@ -1,6 +1,6 @@
 # JSON Library
 
-This project was made to refine my knowledge about parsers and data structures in Python. I used ANTLR which is the most familiar library for me. 
+This project was made to refine my knowledge about parsers and data structures in Python. I used ANTLR which is the most familiar library to me. 
 
 I used AI only for installing and troubleshooting some problems with dependencies and packages. I didn't use it to generate any code. It would defeat the purpose of this project! :P
 

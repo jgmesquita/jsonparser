@@ -1,0 +1,20 @@
+{
+  "name": "Jorge",
+  "age": 23,
+  "isStudent": true,
+  "skills": ["Python", "ANTLR", "Parsing"],
+  "address": {
+    "city": "Porto",
+    "country": "Portugal"
+  },
+  "projects": [
+    {
+      "name": "ParserJSON",
+      "language": "Python"
+    },
+    {
+      "name": "MiniCompiler",
+      "language": "ANTLR"
+    }
+  ]
+}
